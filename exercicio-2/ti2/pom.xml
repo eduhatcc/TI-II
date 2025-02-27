@@ -11,6 +11,9 @@
     	<groupId>org.postgresql</groupId>
     	<artifactId>postgresql</artifactId>
     	<version>42.7.5</version>
+    	<configuration>
+    		<mainClass>Principal</mainClass>
+    	</configuration>
 	</dependency>
   </dependencies>
 </project>

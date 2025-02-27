@@ -1,5 +1,4 @@
 package ti2;
-import dao.VeiculoDAO;
 
 public class Veiculo {
     private int id;

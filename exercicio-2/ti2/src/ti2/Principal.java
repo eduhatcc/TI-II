@@ -1,7 +1,6 @@
 package ti2;
 import java.util.List;
 import java.util.Scanner;
-import dao.VeiculoDAO;
 
 public class Principal {
     public static void main(String[] args) {
